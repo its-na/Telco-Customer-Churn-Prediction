@@ -37,7 +37,7 @@ Tool: Power BI Desktop.
 Dataset: [Telco Customer Churn Dataset (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 📊 Dashboard Visualization
-![Telco Churn Dashboard](dashboard/Churn_Risk_Dashboard.png)
+![Telco Churn Dashboard](dashboard/ChurnRisk.jpg)
 Dashboard operasional yang menunjukkan daftar pelanggan dengan skor probabilitas churn tertinggi (warna merah).
 
 📈 Business Impact
