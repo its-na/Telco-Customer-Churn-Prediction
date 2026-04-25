@@ -46,3 +46,7 @@ The dataset used in this project is publicly available and sourced from Kaggle.
 - **Source:** Kaggle  
 - **Link:** [Telco Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
 - **Note:** Only sample or processed data may be included in this repository.
+---
+## 📬 Contact
+- **LinkedIn:** https://www.linkedin.com/in/alfin-syahrina  
+- **Email:** alfinsyahrinafina@gmail.com
